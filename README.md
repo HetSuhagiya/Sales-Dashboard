@@ -21,4 +21,6 @@ This Tableau dashboard provides a detailed analysis of sales performance using k
 - **Market Distribution:** Understand which countries contribute the most to sales.
 - **Customer Behavior:** Analyze purchasing frequency and average age of buyers.
 
+## **Tableau Public Profile**  
+[View Tableau Public Profile](https://public.tableau.com/views/Dashboard_17376208048500/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
